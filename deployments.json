@@ -4,5 +4,5 @@
   "usdt": "0x55d398326f99059fF775485246999027B3197955",
   "agentId": "0x60b9262456de011f7d15a54cdd8c48baaa8b022f",
   "rpc": ["https://bsc-dataseed.binance.org", "https://bsc-rpc.publicnode.com"],
-  "webapp": "https://pactboard.vercel.app"
+  "webapp": "https://pactboard-ijustabi.vercel.app"
 }
