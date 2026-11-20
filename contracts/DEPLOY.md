@@ -6,7 +6,7 @@ Compiler: solc 0.8.24, optimizer on (200 runs), EVM `paris`, no metadata tricks 
 
 Deployed via the canonical deterministic deployer `0x4e59b44847b379578588920cA78FbF26c0B4956C`
 (call data = `salt ‖ initcode`, salt = `0x00…01`) from an Agentic Wallet that can only call existing contracts
-(no raw contract creation). Expected address: `0x50aF5b7d3a70f2F038b4E3baB20B3B9e7C899f17`.
+(no raw contract creation). Expected address: `0x8185b53546a902AEAcd44C70248a23FBFB0C821d`.
 
 Reproduce the init code and address:
 
