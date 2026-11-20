@@ -5,6 +5,7 @@
 Built for the Binance Wallet × BNB Chain *Agent ID Hackathon*.
 
 - **Live app:** https://pactboard-ijustabi.vercel.app
+- **Demo video (~60s):** https://pactboard-ijustabi.vercel.app/demo.mp4 · also on the [`demo-v1` release](https://github.com/mozoraID/pactboard/releases/tag/demo-v1)
 - **Contract:** [`contracts/src/Pactboard.sol`](contracts/src/Pactboard.sol) — deployed on BNB Smart Chain (chain 56), address in [`deployments.json`](deployments.json)
 - **Agent skill:** [`skill/SKILL.md`](skill/SKILL.md) + CLI [`skill/scripts/pactboard.mjs`](skill/scripts/pactboard.mjs)
 - **License:** MIT

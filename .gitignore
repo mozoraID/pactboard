@@ -6,3 +6,6 @@ contracts/cache
 contracts/broadcast
 .env*
 *.log
+
+# Demo video is served from web/public/demo.mp4 on the live app; the release asset is the canonical copy
+web/public/demo.mp4
