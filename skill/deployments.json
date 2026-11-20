@@ -3,6 +3,10 @@
   "pactboard": "0x8185b53546a902AEAcd44C70248a23FBFB0C821d",
   "usdt": "0x55d398326f99059fF775485246999027B3197955",
   "agentId": "0x60b9262456de011f7d15a54cdd8c48baaa8b022f",
-  "rpc": ["https://bsc-dataseed.binance.org", "https://bsc-rpc.publicnode.com"],
-  "webapp": "https://pactboard-ijustabi.vercel.app"
+  "rpc": [
+    "https://bsc-dataseed.binance.org",
+    "https://bsc-rpc.publicnode.com"
+  ],
+  "webapp": "https://pactboard-ijustabi.vercel.app",
+  "deployTx": "0xc87e0e098bad561801627bb739774d409c9109ec380db78c5be354b85517394e"
 }

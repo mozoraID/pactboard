@@ -67,5 +67,10 @@ cd ../skill/scripts && npm i && node pactboard.mjs list
 
 ## Deployment
 
+- **Network:** BNB Smart Chain (56)
+- **Contract:** [`0x8185b53546a902AEAcd44C70248a23FBFB0C821d`](https://bscscan.com/address/0x8185b53546a902AEAcd44C70248a23FBFB0C821d#code)
+- **Deploy tx:** [`0xc87e0e09…7394e`](https://bscscan.com/tx/0xc87e0e098bad561801627bb739774d409c9109ec380db78c5be354b85517394e) (2,248,093 gas, about 0.00018 BNB)
+- **Source verification:** Sourcify full match (creation + runtime) — https://repo.sourcify.dev/contracts/full_match/56/0x8185b53546a902AEAcd44C70248a23FBFB0C821d/ — verification inputs in [`verify/`](verify/)
+
 The contract is deployed through the deterministic CREATE2 factory `0x4e59b44847b379578588920cA78FbF26c0B4956C`
 (salt `0x…01`), so the address is reproducible: see [`contracts/DEPLOY.md`](contracts/DEPLOY.md).
